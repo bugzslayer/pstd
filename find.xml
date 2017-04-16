@@ -3,11 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'iosched'" />
     <option name="defaultScopeName" value="Project 'iosched'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'iosched'" />
   </component>
 </application>
